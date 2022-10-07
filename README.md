@@ -1,7 +1,15 @@
 # WaterQualityDetectionContract
-Team Contract for Final Project in Mobile Software Development
 
 Outline the structure, procedures, expectations of participation, accountability, and consequences for breech of contract as well as write a paragraph detailing the group member's role(s) and responsibilities as decided above and how they plan to contribute to a positive team experience and resolve conflicts over the semester.
+
+Team Contract
+
+| Name | Phone Number | Email |
+| ----------- | ----------- |----------- |
+| Alexandria Cade | (phone number) | (email) |
+| Gunner Hopkins | (phone number) | (email) |
+| Nard Mutayomba | (phone number) | (email) |
+| Garrett Collier | 501-762-1850 | colliergc@hendrix.edu |
 
 ## Structure
 
