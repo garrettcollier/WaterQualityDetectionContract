@@ -6,7 +6,7 @@ Team Contract
 
 | Name | Phone Number | Email |
 | ----------- | ----------- |----------- |
-| Alexandria Cade | (phone number) | (email) |
+| Alexandria Cade | 501-626-9198 | cadeay@hendrix.edu |
 | Gunner Hopkins | 731-676-9276 | hopkinsgd@hendrix.edu |
 | Nard Mutayomba | 501-499-3137 | mutayombank@hendrix.edu |
 | Garrett Collier | 501-762-1850 | colliergc@hendrix.edu |
