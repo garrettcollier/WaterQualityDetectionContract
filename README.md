@@ -7,7 +7,7 @@ Team Contract
 | Name | Phone Number | Email |
 | ----------- | ----------- |----------- |
 | Alexandria Cade | (phone number) | (email) |
-| Gunner Hopkins | (phone number) | (email) |
+| Gunner Hopkins | 731-676-9276 | hopkinsgd@hendrix.edu |
 | Nard Mutayomba | (phone number) | (email) |
 | Garrett Collier | 501-762-1850 | colliergc@hendrix.edu |
 
@@ -41,7 +41,9 @@ If a group member(s) is not contributing to some part of the project they should
 
 - Alexandria:
 
-- Gunner:
+- Gunner: I plan on taking on the integration tester role, and willing to help on other roles.
+
+I plan on making sure all of our pieces to the porject work properly in all cases. This includes widget elements and functions that make things happen in our app. I will also be working closely with the unit tester to make sure all of the vital functions in our app have a unit test to make sure they work properly under different conditions. 
 
 - Nard:
 
@@ -51,4 +53,4 @@ If a group member(s) is not contributing to some part of the project they should
 
 I plan to be in charge of reaching out to the client about meetings and updates as it relates to the project whether through email, Slack, or video chats if neeeded. I also plan to work directly with the GUI we are designer primarily with the sensors and inner workings of the app, along with some of the layouts/designs if needed. I recognize that others will want to probably contribute in these areas and I would welcome others in my team stepping in if they want to or would like to switch roles. I will be felxible within these assigned roles under the assumption that others in my team could step in if needed. 
 
-Signatures: Garrett Collier
+Signatures: Garrett Collier, Gunner Hopkins
