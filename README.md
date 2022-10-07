@@ -46,7 +46,7 @@ We will need to use a database to connect the color gradient with the values for
 
 I plan on making sure all of our pieces to the porject work properly in all cases. This includes widget elements and functions that make things happen in our app. I will also be working closely with the unit tester to make sure all of the vital functions in our app have a unit test to make sure they work properly under different conditions. 
 
-- Nard:
+- Nard: I plan to work with Alexandria on camera recognition and database development. We realise these will be the biggest peces of our project which is why we will be working on it together. We are open to other team members pitching in as well where they feel they can help out or do better. 
 
 - Garrett: I plan to be involved in 2 main roles, but willing to work in any other roles that my team needs me in. These roles are:
   - Client Inferfacer
