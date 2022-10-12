@@ -39,8 +39,9 @@ If a group member(s) is not contributing to some part of the project they should
 
 ## Responsibilities
 
-- Alexandria: I plan to work with Nard on camera recognition and development of a database to store strip colors and related measurements. 
-We will need to use a database to connect the color gradient with the values for the measurements for the test strip kit. We will also need to setup the camera so that it is able to recognize a strip and the color present on it. 
+- Alexandria: I plan to take the roles of Task Manager and Beta Test Organizer. 
+
+I plan to help everyone stay on top of their tasks and provide assistance as needed. A large part of the project is camera function and development of a database to store strip colors and related measurements. When we get to the Beta Testing phase, I will coordinate this and work with everyone involved to make sure it goes smoothly. 
 
 - Gunner: I plan on taking on the integration tester role, and willing to help on other roles.
 
@@ -54,4 +55,4 @@ I plan on making sure all of our pieces to the porject work properly in all case
 
 I plan to be in charge of reaching out to the client about meetings and updates as it relates to the project whether through email, Slack, or video chats if neeeded. I also plan to work directly with the GUI we are designer primarily with the sensors and inner workings of the app, along with some of the layouts/designs if needed. I recognize that others will want to probably contribute in these areas and I would welcome others in my team stepping in if they want to or would like to switch roles. I will be felxible within these assigned roles under the assumption that others in my team could step in if needed. 
 
-Signatures: Garrett Collier, Gunner Hopkins, Nard Mutayomba
+Signatures: Garrett Collier, Gunner Hopkins, Nard Mutayomba, Alexandria Cade
